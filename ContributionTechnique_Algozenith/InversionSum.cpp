@@ -1,5 +1,4 @@
-//Given an Arr[] of N integers. calculate the sum of (Arr[i] + Arr[j] + Arr[k]) for all the triplets of (i, j, k) s.t 0<=i<j<k<=N-1. 
-
+//Given an Arr[] of N integers. calculate the sume of inversion counts of all possible subarrays
 #include<bits/stdc++.h>
 using namespace std;
 
