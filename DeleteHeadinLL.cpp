@@ -1,5 +1,5 @@
-//Given a LinkedList. Delete the nodes of the LL as following
-//1. Head   2. At a particular position     3. A value      4. Last Node
+//Given a LinkedList. Delete the Head of the LL
+
 
 #include<bits/stdc++.h>
 using namespace std;
